@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+    --color-bear-900: #1a1a1a;
+    --color-bear-800: #2d3748;
+    --color-bear-700: #4a5568;
+    --color-bear-accent: #c05621;
+    --color-bear-gold: #d69e2e;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
